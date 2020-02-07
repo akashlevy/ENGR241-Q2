@@ -1,0 +1,272 @@
+SOFH
+Platform: PC
+Technique: XPS
+FileType:  SPECTRUM
+FileDesc: X1 Point 1
+SoftwareVersion: SS 2.10.2.13
+InstrumentModel: PHI VersaProbe III
+FileDate: 120 2 7
+AcqFileDate: 2020 2 7
+AcqFilename: C:\Datafiles\Users\akashl\TiN_Lesker\020620.1.X1 Point 1.spe
+Operator: 
+ExperimentID: TiN_Lesker
+PlatenID: 2 inch
+StagePosition: -11.2906 8.0388 16.2914 45.0031 -0.2000
+PhotoFilename: 020620.0.Low Mag.pho
+SXIFilename: 
+XraySource: Al 1486.6 mono
+XrayPower: 50.17 W
+XrayBeamDiameter: 200.0 um
+XRayHighPower: no
+NarrowAcceptanceAngle: no
+NeutralizerEnergy: 1.0 V
+NeutralizerCurrent: 20.0 uA
+SourceAnalyserAngle: 45.0 d
+AnalyserSolidAngle: 0.4 sr
+AnalyserMode: FAT
+AnalyserWorkFcn: 4.6 eV
+IntensityRecal: no
+IntensityCalCoeff: 63.135 0.219
+TFCParameters: 1, 1, 2, 93.73, 7.481, 1, 1
+EnergyRecal: no
+SputterIon: Ar+
+SputterEnergy: 0.100 kV
+SputterCurrent: 0.0 uA
+SputterRaster: 1.0 1.0 mm
+PreAcqSputterTime: 0 
+PreAcqSputterRate: 0.0 
+NoSpectralReg: 1
+SpectralRegDef: 1 1 Su1s 111 1376 -0.8000 1098.76867 -1.23133 1100.00000 0.00000 0.120000 224.00 Area
+NoSpectralRegReDef: 5
+SpectralRegReDef: 1 O1s O1s 8 524.66229 538.57220 AREA
+SpectralRegReDef: 2 N1s N1s 7 392.00000 407.52158 AREA
+SpectralRegReDef: 3 C1s C1s 6 279.99249 291.46716 AREA
+SpectralRegReDef: 4 Si2p Si2p 14 97.43715 107.50845 AREA
+SpectralRegReDef: 5 Ti2p Ti2p 22 454.54221 467.70920 AREA
+NoSpatialArea: 1
+SpatialAreaDef: 1 1 1 (-11157.8 -8199.1 16297.6 45.0 -0.1)
+SpatialAreaDesc: 1 
+NoAnnotDef: 2
+AnnotDef: 1 "'COLOR',[0.0000 0.0000 0.0000],'FontAngle','normal','Rotation',0,'FontSize',12,'FontName','Courier New','FontWeight','bold','HorizontalAlignment','left','VerticalAlignment','middle','Margin',2"
+AnnotDef: 2 "'COLOR',[0.0000 0.0000 0.0000],'FontAngle','normal','Rotation',90,'FontSize',12,'FontName','Arial','FontWeight','bold','HorizontalAlignment','left','VerticalAlignment','middle','Margin',2"
+NoAnnot: 10
+Annotation: 1 1 0 SPEC_TABLE_TEXT 209.981033 125574.289063 1.000000 215.060806 110909.093750 210.112366 28571.427734 "Atomic %\nO1s   49.7\nC1s   24.2\nSi2p  15.4\nN1s    6.0\nTi2p   4.6"
+Annotation: 2 2 0 SPEC_PKID_LBL 37.968670 7283.333496 0.000000 66.746201 5714.285645 57.677902 13506.493164 "-Ti3p"
+Annotation: 3 2 0 SPEC_PKID_LBL 102.768669 34950.000000 0.000000 132.663803 33506.492188 57.677902 13766.233398 "-Si2p"
+Annotation: 4 2 0 SPEC_PKID_LBL 153.968674 28866.667969 0.000000 184.161926 27272.726563 57.677902 13506.493164 "-Si2s"
+Annotation: 5 2 0 SPEC_PKID_LBL 285.168671 39425.000000 0.000000 313.937225 37922.078125 57.677902 12727.272461 "-C1s"
+Annotation: 6 2 0 SPEC_PKID_LBL 397.968658 24408.333984 0.000000 427.233093 22857.142578 57.677902 12727.272461 "-N1s"
+Annotation: 7 2 0 SPEC_PKID_LBL 458.768677 44708.335938 0.000000 486.970917 43116.882813 57.677902 15844.156250 "-Ti2p3"
+Annotation: 8 2 0 SPEC_PKID_LBL 464.368683 34100.000000 0.000000 493.150696 32727.273438 57.677902 15844.156250 "-Ti2p1"
+Annotation: 9 2 0 SPEC_PKID_LBL 532.368652 120891.671875 0.000000 561.128235 119220.781250 57.677902 12727.272461 "-O1s"
+Annotation: 10 2 0 SPEC_PKID_LBL 977.168701 48675.000000 0.000000 1006.072021 47272.726563 57.677902 17402.597656 "-O KLL"
+NoHistory: 1
+History: 1 SPEC 1 -1 "Shft"
+TechniqueEx: XPS
+Institution: Stanford University
+AnalyserRetardGain: 1.000821
+ScanDeflectionSpan: 100 90
+ScanDeflectionOffset: 0 1
+SCAMultiplierVoltage: 1950.0 V 
+PeakToNoiseRatioState: no
+DelayBeforeAcquire: 5 seconds
+C60IonGun: None
+BiasBoxMode: 0
+SemFieldOfView: 0.0000000
+ImageSizeXY: 0.0000 0.0000
+IonGunMode: Off
+SputterRate: 0.000 A/min
+FloatVolt: 0.0 V
+FloatEnable: no
+GridVolt: 150.0
+CondensorVolt: 70.00 
+ObjectiveVolt: 70.00 
+BendVolt: 3.50
+SputterRasterOffset: 0.000 0.000 mm
+TargetSputterTime: 5.0 min
+SputterEmission: 0.00 mA
+DeflectionBias: 0.0 V
+IonGunGasPressure: 0.000 mPa
+NeutIon: Ar+
+NeutCurrent: 0.000 uA
+NeutRate: 0.000 A/min
+NeutEnergy: 0.110 kV
+NeutFloatVolt: -100.0 V
+NeutFloatEnable: yes
+NeutGridVolt: 120.0
+NeutCondensorVolt: 73.37 
+NeutObjectiveVolt: 101.64 
+NeutBendVolt: 1.79
+NeutRaster: 0.00 0.00 mm
+NeutRasterOffset: -0.850 -0.030 mm
+NeutTargetTimedOnTime: 3.0 min
+NeutEmission: 7.00 mA
+NeutDeflectionBias: 70.0 V
+NeutIonGunGasPressure: 0.000 mPa
+XpsScanMode: scanned
+SurvNumCycles: 3
+SurvTimePerStep: 20.000000
+NoSpectralRegFull: 6
+SpectralRegDefFull: 1 1 Su1s 111 1376 -0.8000 1100.0000 0.0000 1100.0000 0.0000 0.000000 224.00 AREA
+SpectralRegDef2Full: 1 1100.0 1 0 2 1
+SpectralRegBackgroundFull: 1 0.0 550.0 0.0
+SpectralRegHeroFull: 1 550.0 0.0 0.0 0.00
+SpectralRegIRFull: 1 0 0.000 0.000 0.0
+SpectralRegDefFull: 2 0 Ti2p 22 26 -0.8000 469.0000 449.0000 468.0000 450.0000 0.000000 224.00 AREA
+SpectralRegDef2Full: 2 20.0 1 0 2 1
+SpectralRegBackgroundFull: 2 0.0 459.0 0.0
+SpectralRegHeroFull: 2 459.0 0.0 0.0 0.00
+SpectralRegIRFull: 2 0 0.000 0.000 0.0
+SpectralRegDefFull: 3 0 O1s 8 26 -0.8000 543.0000 523.0000 542.0000 524.0000 0.000000 224.00 AREA
+SpectralRegDef2Full: 3 20.0 1 0 2 1
+SpectralRegBackgroundFull: 3 0.0 533.0 0.0
+SpectralRegHeroFull: 3 533.0 0.0 0.0 0.00
+SpectralRegIRFull: 3 0 0.000 0.000 0.0
+SpectralRegDefFull: 4 0 N1s 7 26 -0.8000 411.0000 391.0000 410.0000 392.0000 0.000000 224.00 AREA
+SpectralRegDef2Full: 4 20.0 1 0 2 1
+SpectralRegBackgroundFull: 4 0.0 401.0 0.0
+SpectralRegHeroFull: 4 401.0 0.0 0.0 0.00
+SpectralRegIRFull: 4 0 0.000 0.000 0.0
+SpectralRegDefFull: 5 0 C1s 6 26 -0.8000 298.0000 278.0000 297.0000 279.0000 0.000000 224.00 AREA
+SpectralRegDef2Full: 5 20.0 1 0 2 1
+SpectralRegBackgroundFull: 5 0.0 288.0 0.0
+SpectralRegHeroFull: 5 288.0 0.0 0.0 0.00
+SpectralRegIRFull: 5 0 0.000 0.000 0.0
+SpectralRegDefFull: 6 0 Si2p 14 26 -0.8000 114.0000 94.0000 113.0000 95.0000 0.000000 224.00 AREA
+SpectralRegDef2Full: 6 20.0 1 0 2 1
+SpectralRegBackgroundFull: 6 0.0 104.0 0.0
+SpectralRegHeroFull: 6 104.0 0.0 0.0 0.00
+SpectralRegIRFull: 6 0 0.000 0.000 0.0
+XrayAnodePosition: 1
+XRayBeamVoltage: 15000.0 V
+XRayCondenserLensVoltage: 7800.0 V
+XRayObjectiveCoilCurrent: 0.732 A
+XRayBlankingVoltage: 280.0 V
+XRayFilamentCurrent: 1.675 A
+XRayStigmator: 0.0 0.0
+XRayOffsetInUm: -20 -70
+XRayMagFactor: 0.354 0.354
+XRayDelayFactor: 2000 1000
+XRayRotationInDeg: -20.30 V
+XRayEmissionControl: yes
+XRayEmissionCurrent: 6.000 mA
+XRayStepDelayReadBeam: 5
+XRayStepsPerDiameter: 1.0
+XRayInterlaceInterval: 1
+XRayMaxFilamentCurrent: 1.800 A
+XRaySetting: 200u50W15KV
+EgunNeutMode: Off
+EgunNeutExtractor: 30.0 V
+EgunNeutXSteering: 13.0 
+EgunNeutYSteering: -2.0 
+EgunNeutFilament: 1.47 A
+EgunNeutPulseLength: 10.0 msec
+EgunNeutPulseFrequency: 2
+SxiPersistence: 1
+SxiSecPerDisplay: 1.0 
+SxiAutoContrast: yes
+SxiAutoContrastLow: 0.30 
+SxiAutoContrastHigh: 0.30 
+SxiBindingEnergy: 285.0 eV
+SxiPassEnergy: 224 eV
+SxiLens2: -321 V
+SxiLens3: -321 V
+SxiLens4: -281 V
+SxiLens5: -281 V
+SxiRotator: 0.00 A
+SxiLensBias: 200 V
+SxiShutterBias: yes
+SxiShutterBiasVoltage: 320.0 V
+SxiDisplayMode: 2
+Detector Acq Time: 60.0 (min)
+Number Of Channels: 32
+Channel Info: 1 1 1.086
+Channel Info: 2 1 1.085
+Channel Info: 3 1 1.068
+Channel Info: 4 1 1.078
+Channel Info: 5 1 1.072
+Channel Info: 6 1 1.016
+Channel Info: 7 1 0.919
+Channel Info: 8 1 1.013
+Channel Info: 9 1 1.051
+Channel Info: 10 1 0.978
+Channel Info: 11 1 1.003
+Channel Info: 12 1 0.947
+Channel Info: 13 1 1.066
+Channel Info: 14 1 1.088
+Channel Info: 15 1 1.009
+Channel Info: 16 1 1.079
+Channel Info: 17 1 1.114
+Channel Info: 18 1 1.049
+Channel Info: 19 1 1.115
+Channel Info: 20 1 1.022
+Channel Info: 21 1 1.046
+Channel Info: 22 1 0.965
+Channel Info: 23 1 1.013
+Channel Info: 24 1 0.995
+Channel Info: 25 1 1.009
+Channel Info: 26 1 0.868
+Channel Info: 27 1 0.935
+Channel Info: 28 1 0.881
+Channel Info: 29 1 0.956
+Channel Info: 30 1 0.834
+Channel Info: 31 1 0.933
+Channel Info: 32 1 0.891
+StageCurrentRotationSpeed: 1.0000
+DefectPosID: 1
+DefectPosU: -11.1655
+DefectPosV: 8.1883
+DefectPosX: -11.2906
+DefectPosY: 8.0388
+DefectPosZ: 16.2914
+DefectPosTilt: 45.0031
+DefectPosRotation: -0.2000
+DefectPosAligment: None
+DefectPosReferenceImage: 020620.0.Low Mag.pho
+GCIBSputterRate: 0.0 A/min
+GCIBBeam: 2.500 kV
+GCIBIonization: 150.0 V
+GCIBExtractor: 1.80 kV
+GCIBRasterSize: 2.0 2.0 mm
+GCIBRasterOffset: 0.6 -0.0 mm
+GCIBWien: 16.00 V
+GCIBBend: -55.00 V
+GCIBEmission: 15.00 mA
+GCIBMagnet: 0.0 A
+GCIBObjective: 47.85 Percent
+GCIBFocus: 88.90 Percent
+GCIBGasPressure: 650.00 kPa
+Deconvolution: no
+DeconvolutionPassEnergy: 6.50 eV
+AutoIonNeut: no
+Presputter: no
+EOFH
+      €                    `        chn     sar             c/s             f8   +                                         cyc     reg             eV              f8     ,                          @            cyc     reg             eV              f8     ˜,                          €            cyc     reg                             u1      ,                   ªâ@   À*Gâ@     Æá@     9â@   `uÑá@   À*ãá@     ¼á@   `•Ôá@   ÀjÐá@    €6â@   À*Êá@   `µðá@   `•Ôá@   À
+Çá@     {á@   `õöá@   `µ	â@   ÀŠˆá@    @åá@   ÀÊâ@     â@     ”á@    À#â@   `õ(â@   ÀÊ=â@   `uNâ@     Žâ@   ÀŠâ@   `õöá@   Àêrâ@   `uäâ@   `µŸâ@   `u™â@   `©â@   `U,ã@   `ÕÔâ@    `eâ@   `µ†â@   ÀÊ¡â@    àqâ@   À
+â@   `Uâ@    À
+â@     *â@    @0â@    @0â@    @Iâ@   ÀêÜá@   `Õ>â@     \â@   ÀÊ¡â@   `µ"â@     ûá@     Câ@   `uâ@   Àjâ@   À
+®á@   `uâ@   ÀJ1â@   `•ƒâ@     Žâ@     â@     Râ@     Câ@   `UÈâ@   ÀÊVâ@   `µ†â@   À
+â@    `ûâ@   `õ×â@   ÀJcâ@   `Õ»â@   `uËâ@   ÀJ•â@    `ââ@   Àê:ã@   À
+ã@   Àê‹â@    À â@    €³â@     ¶â@    àqâ@   `wâ@   ÀŠÿâ@   `Õjã@   À
+ã@   ÀÊˆâ@     òâ@    €åâ@   `•µâ@   Àêïâ@   À*Äâ@   `õ	ã@   `UEã@   `Õœã@    àRã@   `5#ä@   `Õã@    @Àã@   À
+‰ã@     ¡ã@   À*sã@   ÀJDã@   À
+‰ã@   `Õœã@   `•–ã@   `•dã@   `õ†ã@   `u¬ã@    €”ã@    Àhã@    `-ã@   Àj’ã@   À*¾ã@    €Cä@   `Uôã@    €§ä@    àeä@   À
+ä@   `õNä@   ÀêMä@    àä@     žä@     éä@   `å@   Àê±ä@   `u¦ä@   Àê±ä@   ÀÊùä@    À0ä@   ÀŠDä@   ÀÊJä@    àèã@   `UÛã@    àkã@   `µÑâ@   `5¬â@   `õ¥â@    Àëâ@   `õâ@   À
++â@   Àª:â@   `5Hâ@     *â@   `•Îâ@   `õ	ã@   `Šã@   ÀŠä@   À*mä@   `5šå@    `Êæ@   ÀŠ}ç@    `Äç@   `ÕRç@   `õ¦æ@   ÀÊÁå@    €å@   `µýã@   ÀÊ7ã@     îá@     Xá@   `µ«à@   `•êÞ@   `ÕÞ@    ÀáÜ@   `U.Û@     wÚ@   `UlÙ@   À*Ù@   Àê™Ø@    €¨Ø@   `ÐØ@   ÀjñØ@   `•-Ø@   ÀêØ@   `:Ø@   Àj)Ø@    Àÿ×@   ÀªÞØ@   Àª¬Ø@   `U‹Ø@   `•ÜØ@   Àj“×@   Àj[Ø@   `ÐØ@    À•Ø@   `ÕâØ@   ÀªË×@   ÀªzØ@    ÀJØ@   `UYØ@    ÀùØ@   À*ÒØ@   Àêê×@    ÀØ@   À*Ù@      Ù@   Àª[Ù@   `U:Ù@    @íØ@   `ÕÙ@   `UlÙ@    @8Ù@     }Ù@    @íØ@   `ÕÉØ@    @QÙ@   À*šÙ@     KÙ@    €Ù@   `Ù@   `Ù@     ÎØ@   ÀªÙ@   `•'Ù@   `UžÙ@   `•rÙ@    ÀvÙ@   `Õ'Ú@    À]Ù@    ÀÚÙ@   ÀªnÚ@   `ÕYÚ@   ``Ú@   Àj<Ù@   Àj‡Ù@   `U:Ù@   ÀªOÛ@    À»Ú@    ÀÔÚ@     –Ù@   `UlÙ@   `Ú@   ÀjÒÙ@   `ÕõÙ@    À%Ú@   `ÕYÚ@    @µÙ@   `ÕÚ@    € Û@   `ÕrÚ@   `GÚ@   `•½Ù@   ÀêÚ@   `.Ú@   ÀjhÚ@    ÀÔÚ@   `U˜Ú@   ÀjÚ@    €ƒÚ@   Àê#Û@    @Û@   ÀªÛ@   `yÚ@   ÀjIÛ@   ÀênÛ@    ÀjÛ@   `•fÛ@   `•fÛ@   ÀªåÛ@   `ÕMÜ@   Àê‡Û@   ÀªIÜ@    À Ü@     Ü@   `UãÚ@    € Û@    @^Û@     îÛ@   ÀêÒÛ@    @ÕÜ@   `•ãÛ@    €áÛ@    @wÛ@   ÀªåÛ@   À*oÜ@    ÀœÛ@    ÀKÜ@   ÀjuÜ@   Àê³Ü@    €úÛ@   `•yÜ@   `;Ü@   `UsÜ@   `U¥Ü@   ÀêÌÜ@     ÏÜ@   `ðÛ@   `Õ’Ý@   ÀêÌÜ@   Àª­Ü@   `•`Ü@   ÀjÜ@   ÀªþÛ@   `ÑÜ@   `ÕÜ@    ÀdÜ@     „Ü@     Ý@    @9Ý@    €£Ý@   `ÕãÜ@   Àj=Ý@   ÀjVÝ@   Àê{Ý@    @Ý@    €&Ý@    €Þ@    @Þ@   À*´Ý@   ÀjÞ@   `€Ý@    ÀÂÝ@   `UNÞ@   À*´Ý@   `•mÞ@    €XÝ@   `aÞ@    À£Þ@   `ÕZÞ@   `•†Þ@    @Þ@     FÞ@   `äÝ@   ÀªˆÞ@   `•ðÝ@   `UgÞ@   Àª=Þ@    @eÞ@     ªÞ@   `•¸Þ@    €„Þ@     FÞ@   `ÅÞ@   `U²Þ@    @ûÞ@   Àª‚ß@   `•5ß@   À*+ß@    @_ß@     @ß@   Àj|ß@   ÀêŽÞ@   `ÞÞ@    À ß@   `÷Þ@   `ÞÞ@   `Õmß@   Àªæß@   `ß@   `•²ß@   `UÞß@   Àjùß@   Àjùß@     ½ß@   À*Úß@    €à@   À*Úß@   `Õà@    €à@   `U÷ß@   À*!à@     6à@    `Šà@     ^à@   Àêà@   Àª_à@   ÀjYà@     wà@   Àê~à@   `usà@   `usà@   ÀêLà@   Àªxà@    à–à@   ÀŠÀà@   Àê°à@     à@   `•Úà@    €
+á@   `Uíà@    À÷à@   ÀŠ§à@   ÀÊá@   `5¸à@   `Uá@     ¶à@     åà@     ¶à@   `Õ|à@   Àª‘à@   Àj:á@     Âà@    €<á@   `55á@    àá@   `•óà@   À
+1á@     á@   `Õùà@     á@     á@     ôà@   ÀÊCá@   ÀJá@    €<á@   `•á@   `µ(á@   `õGá@     ?á@   ÀÊá@   `µ(á@    @á@   `µZá@   `õGá@   `U8á@    `á@   `õyá@   `ÕDá@   À*á@   `Uœá@     qá@   À
+•á@   À*Má@    à©á@     Iá@    @šá@   ÀÊÙá@   Àªâ@   `u¸á@   `õÝá@   `•jâ@    ÀUâ@     kâ@   Àê‹â@   `Uµá@   `•â@     ¼á@   ÀÊˆâ@   `â@     _â@   ÀªSâ@    Ànâ@   ÀŠPâ@   `UÈâ@   À*`â@   À*üá@   À*Gâ@     Üâ@    @øâ@   `UEã@    à9ã@   Àjã@   ÀJ®â@     -â@    €šâ@   `Uúâ@   ÀÊºâ@   Àê½â@   Àê‹â@    @ßâ@   Àªžâ@   ÀŠ›â@   `•µâ@   `U–â@    @Æâ@    À6ã@     Üâ@    €³â@   Àjãâ@    àèã@   Àªéâ@   Àê:ã@   `µgã@    Àã@   `Uã@    à9ã@    à ã@    Àšã@    €0ã@   `Ûâ@    à ã@    àRã@     eã@   Àj«ã@   ÀJDã@    àkã@   `µ5ã@   `5¦ã@     oã@   `µgã@   À*¾ã@   À
+ä@   Àªã@   `5ñã@   `ÕQã@   ÀjÄã@     °ã@   Àª˜ã@    àä@   ÀÊÿã@   `5
+ä@    `ä@   Àj«ã@   `¼ã@   `uä@   `µä@   `µ€ã@   ÀJpä@   `õŸã@   `UÛã@    À³ã@   `5ñã@   `õ5ä@   `utä@   `U&ä@    àä@    àeä@    à~ä@    àeä@    @ºä@   `õgä@   Àª’ä@     lä@     ‚ä@    `rä@   ÀjAä@    Àbä@    ÀÆä@   `õ5ä@   `U¼ä@    Àä@    €Žä@   À
+çä@   `U å@   `URå@   `èä@   `µ“ä@   `µBå@   Àªå@   `Õå@   `•qå@     |å@   `u#å@   ÀJƒå@   `5Ìå@   `u¹å@   ÀŠ>å@   `u<å@    @å@   `µ)å@   À*å@    `Öä@     ÿä@   À*Nå@   ÀJœå@   ÀêÝå@   Àêå@   ÀJµå@     •å@    `æ@   Àªmæ@    `éå@    @›å@   `5³å@   `Uæ@     Öå@   ÀÊæ@    ÀÀå@   `Uæ@   À
+–å@    àªå@   `• æ@   `Éå@    @æ@   Àª¾å@   À
+æ@   `ÕXæ@   ÀŠ¢å@   `5þå@     ½å@    ÀVæ@   Àj™æ@   `U~æ@    à½æ@    àYæ@   ÀÊÚå@   ÀÊpæ@   `ªæ@   `Õæ@   À
+ôæ@   ÀŠ8æ@   `‘æ@     læ@   `µç@   Àê¾æ@   `•¶æ@   `uæ@   `UÉæ@    Àç@     (ç@    à!ç@   `Uûæ@   ÀŠ2ç@   ÀŠ2ç@     ¾ç@   ÀŠúç@   `5Žç@   Àê¸ç@   `‹ç@   Àê¸ç@   `Õkç@   ÀŠç@   `µhç@   ÀÊç@   ÀÊÎç@     ‰ç@   À*¿ç@   Àêmç@   `•—ç@    ÀPç@   ÀjBè@     Zç@   ÀJ^ç@    @¨ç@   `ubç@     Mç@   `ubç@    @Úç@   Àêmç@   Àê¾æ@   ÀJè@   `•°ç@   `5uç@    €Çç@    @Áç@   Àêêç@    @vç@   `•3ç@    €cç@   `5Žç@    @ç@   À*ç@   `5uç@   ÀJôç@   `•è@   `U@è@   ÀÊKè@   `!è@    àéç@   Àêgè@     Gè@     üç@   ÀjÞç@   À*Øç@   ÀÊµç@   `Õç@   `u”ç@    `.ç@   Àª€ç@   `µ6ç@   Àª€ç@    àéç@    À´ç@   Àj÷ç@   `•âç@   `5oè@   ÀªÞè@   `uuè@   `µè@    `yç@     ¥ç@   `UÜç@   À*Øç@    €àç@   `ÕÏç@   ÀêNè@   `ué@   `µÆè@   Àj¿è@   `ué@     Aé@   `Õeè@   À*Øç@   ÀÊœç@    €ç@   À
+,æ@   À*äå@    €Vå@   `U£ä@    @Óä@    Àšã@   Àj’ã@   Àªfã@     xâ@   ÀŠPâ@   `•Ôá@   `µ	â@   `5Ná@   À*…à@   À
+ià@   `•¨à@   `5Ná@    À#â@   `µã@   ÀŠpå@    àì@   À
+–õ@   Àºƒý@     )ý@    ôö@   Àjò@   `5´é@     §â@    ÀHà@   `÷Þ@   `€Ý@   À*¡Ü@    À2Ü@   `•yÜ@   `5Ý@   `U"Ý@   `U†Ý@   `ÕGÝ@    €wÜ@   `ÕfÜ@   ÀêÜ@   `UÚ@   Àê)Ú@   Àª¦Ù@   ÀêaÙ@   `Ù@    ÀvÙ@   ÀêgØ@    @‰Ø@   `ÐØ@   Àª)Ù@   ÀêaÙ@   Àj Ù@    À+Ù@   `UlÙ@   Àj
+Ù@   `•rÙ@    @íØ@   ÀjØØ@   À*šÙ@    ÀÁÙ@   ÀªzØ@    ÀvÙ@    €ÚØ@     –Ù@     }Ù@   `GÚ@   `•Ú@   Àê[Ú@    €QÚ@   `UÐÙ@   `•½Ù@   `ÕFÙ@   À*”Ú@     úÙ@   `UïØ@   ÀjOÚ@     úÙ@   Àj
+Ù@    ÀÙ@   ÀjOÚ@   Àª
+Ú@     &Û@   ÀªUÚ@    €2Û@     Û@    ÀíÚ@    À¢Ú@   Àª‡Ú@   À*Û@   `ÕÜ@    ÀjÛ@   `U.Û@   ÀêñÚ@   `•·Ú@   `ÕYÚ@    @Û@   Àj0Û@   À*CÛ@    ÀóÙ@   Àª¿Ù@   `MÙ@   Àj#Ù@    @¢Ø@   `•lÚ@     kÜ@     @ß@    €¦à@   Àj•ß@   `Õ±Ü@   `ÕÐÛ@   Àj{Û@   À*‚Ý@   ÀJJâ@   ÀŠÔå@   `U,ã@   À*‚Ý@     ‰×@   Àj¥Ô@    ÀšÓ@   `ŠÓ@   `Õ8Ó@   `ÕíÒ@    À Ò@    @bÒ@   Àj±Ò@   `^Ò@   Àj4Ò@   À*ãÑ@    À Ò@   `•Ò@   `UdÒ@     \Ò@   À*ãÑ@   ÀªÐÒ@   `Ò@     ŽÒ@   À*’Ò@   `wÒ@    À Ò@   `ÕíÒ@   `•ÎÒ@   `•QÒ@   `ÕÔÒ@   `ÕÔÒ@   À*sÓ@    €ßÓ@   Àê:Ó@   ÀêlÓ@    €þÒ@   `•çÒ@    €þÒ@   `UwÓ@   `•çÒ@   Àê·Ó@   ÀªMÓ@    ÀhÓ@    ÀOÓ@    @øÒ@   ÀªéÒ@   `•áÓ@   ÀêžÓ@   À*(Ó@   Àj«Ó@   `Ô@   `•¯Ó@     PÔ@   ÀêSÓ@   ÀjÝÓ@   À*ðÓ@   `•úÓ@     iÔ@   `UîÔ@   ÀªüÓ@   ÀªãÓ@   `•áÓ@    ÀIÔ@   `UÔ@   `U©Ó@   `ÕÓ@   `Ô@     æÔ@     ´Ô@   ÀêfÔ@    ÀÆÔ@   `—Õ@    €ºÕ@   `FÖ@   Àê×Ö@    À›×@   `Ö×@    €×@   À*HÖ@    €Õ@   À*†Ô@   `ÕjÓ@    @ÙÓ@    À6Ó@   `U¼Ô@   `U Õ@    À{Ô@    ÀþÓ@    ÀÔ@   À*êÔ@   `ÕúÔ@   `•ôÔ@   `•wÔ@   `U Õ@   Àª’Ô@   `ÕÕ@    €ˆÕ@    @Ö@   À*/Ö@   Àª	Ö@   ÀêAÖ@    @æÕ@    €Ö@   ÀêyÕ@   Àª¾Õ@    €Ö@   Àê(Ö@   `Ö@   `Õ£Ö@   `•ÕÕ@   ÀêŒÖ@    ÀoÖ@   Àª×@    ÀoÖ@    @1Ö@   À*HÖ@   `õÖ@   Àª†Ö@    @®Ö@   Àê¥Ö@   `•kÖ@   Àj/×@    @+×@    @¨×@    €à×@   `UÃ×@    @×@   `ÕÏ×@   À*ñ×@    @‰Ø@   Àê²Ø@   Àj
+Ù@    À|Ø@   `4Ù@   Àj¦Ø@   `:Ø@   `•FØ@   À* Ø@   `·Ø@     KÙ@    @Ù@   ÀjBØ@    @Ø@   ÀjBØ@   `lØ@   Àª¦Ù@   `ÐØ@   `•ïÙ@    @Ú@    ÀóÙ@   `Õ@Ú@   `U.Û@   `ŒÛ@    €ÂÜ@   Àª§Ý@   `“Þ@   ÀêuÞ@   `¦ß@    €—ß@   ÀªoÞ@   `•ŒÝ@   `UZÜ@    €Ú@   `žØ@   À*¹Ø@   Àj÷×@    €c×@   À*×@   `ÕîÖ@     ×@   Àê	×@    @¨×@    €+Ø@    @»Ø@   ÀêBÚ@    ÀƒÛ@   Àj§Ü@     _Þ@   ÀŠà@    €Éß@   `õà@   Àª­Ü@   `UÚ@   `…Ø@   À*ÅÖ@   ÀªAÕ@   `U?Ô@   `ÕÓ@   `XÓ@   À*ÄÒ@   À*yÒ@   Àª¤Ñ@     *Ò@   `•8Ò@   À*Ñ@   `U8Ñ@   `U¢Ð@   `ƒÐ@   `U>Ð@   `jÐ@    @
+Ð@   Àê3Ð@   `ÕÐ@   ÀªæÏ@   ÀjÑ@   À*óÏ@    @OÑ@   `•‰Ñ@     bÑ@   `U‰Ð@   `U¢Ð@   `ÕùÐ@   Àj±Ò@     ìÓ@     ›Ô@   `•RÖ@    €Ü@     @ã@    À‡â@     Ø@     CÒ@    ÀaÐ@     Ð@   `U5Î@   `U¸Í@     eÍ@    €ÏÎ@   `Õ«Í@   `UNÎ@     3Í@   `Õ±Ì@    €Î@     eÍ@    €Í@   `UTÍ@   ÀªbÌ@   `Õ±Ì@     eÍ@    €îÍ@     xÎ@   `U"Í@   À*ÿÍ@    €^Ì@     ¶Ì@   `Õ«Í@   ÀªÎ@   `ÕãÌ@   À*VÌ@     Í@   À*PÍ@   À*ìÌ@   À*›Í@    €RÎ@   Àª”Ì@   `UZÌ@     3Í@   À*›Í@   `ÕyÍ@     Ì@   `UÎ@     „Ì@   À*iÍ@   `ÕÊÌ@     Ì@   `ÕÊÌ@   Àª§Í@   `Õ’Í@     ~Í@   `UaÏ@   `Õ¸Ï@    €LÏ@   ÀªÜÐ@   `Õ®Ð@   `U™Î@     xÎ@   Àª\Í@     °Í@     ÏÌ@   `Õ¥Î@   À*Î@    €9Î@   `U¾Ì@   À*ÍÍ@   `U¸Í@   À*|Î@    €ÕÍ@   À*´Í@   `Õ.Í@   `ÕGÍ@     îË@   À*´Í@   `ÕüÌ@   Àª­Ì@   `U×Ì@   `ÕyÍ@   À*iÍ@    €Ì@     Í@   À*ˆÌ@   `ÕyÍ@    €£Í@   À*PÍ@    €EÌ@   `ÕyÍ@   À*iÍ@   À*´Í@   ÀªÆÌ@   À*ÍÍ@    €¼Í@   ÀªCÍ@   ÀªÍ@    €îÍ@    €&Í@   `ÕGÍ@   À*æÍ@    €qÍ@   `UêÍ@   À*cÎ@   `ÕŒÎ@    €Ï@   `ÕZÎ@    €kÎ@    €Î@   À*®Î@   Àª$Î@     eÍ@   `ÕÝÍ@     Î@   À*7Í@     Î@   À*ÍÍ@     ªÎ@     ÉÍ@    € Î@    € Î@   Àª=Î@   À*‚Í@   `UNÎ@   ÀªÀÍ@   `ÕÎ@   `Õ×Î@    €¼Í@    €Ï@   `UýÎ@   À*|Î@   ÀªÏ@    €eÏ@    €âÏ@   Àª7Ï@   À*ÚÏ@   `Õ¸Ï@   `UÞÏ@   Àª-Ð@   ÀªÜÐ@   `U%Ð@   À*Ï@    €—Ï@     Ð@   `•Ð@     ÜÎ@   `Õ¾Î@    €3Ï@   ÀªÏ@   `UêÍ@   `UÎ@   ÀªÆÌ@    €áË@   `ÕÐË@   `UÌ@    €Ì@    €ôÌ@   ÀªšË@   `Õ‹Ê@   À*\Ë@   `U’Ë@    €Ì@   `U¸Í@   `•Ð@     ”Ñ@   `•Ô@   Àª<Ú@   Àª0Ü@    €Ú@    @ÿÕ@    €UÑ@    €)Ð@   À*æÍ@   Àª”Ì@    €ÛÌ@   À*VÌ@     XË@     &Ë@   À*Ë@    €µÊ@   À*IÊ@   ÀªÉ@     úÉ@   ÀªÞÈ@    €8Ê@   À*{Ê@   À*0Ê@   `ÕÃÉ@     ^Ê@   ÀªnÊ@     ^Ê@   `UMÊ@     úÉ@   `Õ½Ê@     qË@     qË@   `ÕéË@    €–Ë@   `U’Ë@   À*ìÌ@     ŠË@   À*ºÌ@   À*oÌ@   `Õ˜Ì@     ŠË@   Àª­Ì@   Àª{Ì@   À**Ë@    €wÌ@   `ÕfÌ@   `U¥Ì@    €©Ì@   `U`Ë@    €jÊ@   À*³É@   À*6É@   Àª#Ê@   À*³É@   `UÐÉ@   À*OÉ@    €]È@    €È@    €ÚÈ@   À*{Ê@     EÊ@     }É@   À*­Ê@    €úË@    @nÐ@   `Ö@   `Õ¾Þ@    Àá@   ÀjÚ@   ÀêrÒ@     —Í@     „Ì@   À*§Ë@   ÀªUÊ@   `UÊ@    €Ê@   À*”Ê@     }É@     É@   `Õ‘É@   `Õ~È@   À* È@    €àÇ@   À*<È@   `Õ‘É@   À*åÉ@   `UÊ@   À*hÉ@   ÀªÉ@     –É@    €8Ê@   Àª#Ê@    €óÈ@     ƒÈ@   `ÕxÉ@     EÊ@   À*ˆÌ@    €Ï@    €¹Ñ@   Àª«Ô@   ÀêBÚ@    À?Þ@    @ Ý@   Àj[Ø@    @¯Ú@   ÀêŽÞ@     ÛÚ@   `U¢Ð@   À*"Ä@     ¾@   Àªo¾@     ½@   Àª»@   `Už¹@   Àª)¹@   `Ué¹@   Àª¿¹@   `UÊº@   Àª­¼@   `Uº@   `U‘·@   Àª¸@   `U‘·@     ¨¶@   Àª·@     cµ@   `Uû¶@     ,º@     œ¸@   Àª¹@   `U‹¸@     Ô·@   `UÉ¶@   Àªðµ@     ›´@     cµ@   Àª±³@     *²@   `U}²@     å°@     u²@     À²@   Àª³@   `UÎ±@   ÀªM³@   `U,³@     àµ@     œ¸@   `Us¼@   Àª¼@     ç¸@   ÀªÊ³@   Àª_°@   `U;­@   Àª6«@     î«@   Àª¦©@   Àª*­@   Àª<ª@   ÀªV®@     °@   Àª·²@     Jµ@   `U-·@     K¹@   `Ux·@   `U¼´@   Àªï±@   `U»°@     d©@   Àªê¦@     ò¢@   `U¯¢@   Àªl¢@     ”¡@   `Uµ¡@   `U» @   Àª¤¡@   `U¡@     ò¢@   Àª˜£@   `U£¤@     V£@     p§@   Àª€§@     ^ª@   `UË®@     þ°@   ÀªÖ±@   ÀªY±@   `UË®@   Àªø¬@   ÀªŽ­@   Àªz¨@     \¢@   `UE“@     @@   Àªš{@                Shft
