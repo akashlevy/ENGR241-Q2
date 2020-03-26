@@ -21,7 +21,7 @@ bound_gap = 2000;
 mark_th = 10;
 
 // Select when exporting: layer 0 is via trench pattern, layer 1 is TE pattern
-layer = 0;
+layer = 1;
 
 // Define design boundaries
 trx = design_cols * (pad_spacing * n_cols + group_spacing) * n_groups + bound_gap;
